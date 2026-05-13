@@ -1,6 +1,6 @@
 // API Configuration
 
-const API_BASE_URL = 'https://admin.careelevators.in'; // Update this with your backend URL
+const API_BASE_URL = 'https://atomlift.technuob.com/'; // Update this with your backend URL
 
 export const API_ENDPOINTS = {
   // Customer authentication
